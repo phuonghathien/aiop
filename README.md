@@ -1,6 +1,6 @@
-# AI-Oriented Programming (AOP)
+# AI-Oriented Programming (AIOP)
 
-This repository contains a proposal, documentation, and prototype implementation for a new programming paradigm called AI-Oriented Programming (AOP).
+This repository contains a proposal, documentation, and prototype implementation for a new programming paradigm called AI-Oriented Programming (AIOP).
 
 ## What is AI-Oriented Programming?
 
@@ -46,8 +46,8 @@ This will run the demo that shows AI-oriented programming concepts in action.
 
 ## Future Directions
 
-- Development of a specialized AOP language
-- Creation of IDE plugins supporting AOP development
+- Development of a specialized AIOP language
+- Creation of IDE plugins supporting AIOP development
 - Building libraries of AI-oriented design patterns
 - Development of testing frameworks for AI components
 
@@ -62,4 +62,4 @@ This is a research project, and we welcome contributions in the form of:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GPL-3.0 License - see the LICENSE file for details.
